@@ -39,6 +39,6 @@
 [Github]: https://github.com/Osama-Abdul-Ghafoor
 
 
-img {
+!img {
 	border: 1px solid blue;
 }
