@@ -38,8 +38,3 @@
 [Email]: osama.abdulghafoor@outlook.com
 [Github]: https://github.com/Osama-Abdul-Ghafoor
 
-```css
-   .img{
-   color:white;
-   }
-
