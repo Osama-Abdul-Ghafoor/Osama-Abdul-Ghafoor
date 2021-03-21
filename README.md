@@ -22,9 +22,7 @@
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][Github]
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][Github]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />][Github]
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][Github]
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />][Github]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][Github]
+[<img align="left" alt="ReactJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][Github]
 [<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />][Behance]
 [<img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />][Behance]
 
