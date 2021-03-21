@@ -37,3 +37,8 @@
 [Behance]: https://www.behance.net/osamaabdulg
 [Email]: osama.abdulghafoor@outlook.com
 [Github]: https://github.com/Osama-Abdul-Ghafoor
+
+
+img {
+	border: 1px solid blue;
+}
