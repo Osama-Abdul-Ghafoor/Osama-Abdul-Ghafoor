@@ -18,13 +18,13 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" style="color:white"/>][Github]
-[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][Github]
-[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][Github]
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />][Github]
-[<img align="left" alt="ReactJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][Github]
-[<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />][Behance]
-[<img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />][Behance]
+<kbd>[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" style="color:white"/>][Github]</kbd>
+<kbd>[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />][Github]</kbd>
+<kbd>[<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />][Github]</kbd>
+<kbd>[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />][Github]</kbd>
+<kbd>[<img align="left" alt="ReactJS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />][Github]</kbd>
+<kbd>[<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />][Behance]</kbd>
+<kbd>[<img align="left" alt="Illustrator" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobeillustrator.svg" />][Behance]</kbd>
 
 
 
@@ -38,7 +38,3 @@
 [Email]: osama.abdulghafoor@outlook.com
 [Github]: https://github.com/Osama-Abdul-Ghafoor
 
-
-!img {
-	border: 1px solid blue;
-}
