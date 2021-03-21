@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" style="background-color:red;padding:20px;"/>]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" style="background-color:red;padding:42px;"/>]
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />]
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />]
