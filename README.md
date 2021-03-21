@@ -39,7 +39,7 @@
 [Github]: https://github.com/Osama-Abdul-Ghafoor
 
 ```css
-   .image{
+   .img{
    color:white;
    }
 
