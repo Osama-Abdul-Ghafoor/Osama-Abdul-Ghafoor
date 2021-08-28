@@ -1,11 +1,11 @@
 ### Osama here, welcome to my GITHUB account 👋
 
-## I'm a Front End Developer, UI UX and Machine Learning enthusiast!!
+
 
 - 🌱 I’m more comfortable with Python, C and C++.
 - 🔭 I’m currently learning ReactJS and Flutter.
 - 📫 Email me at: [osama.abdulghafoor@outlook.com][Email].
-- ⚡ Fun fact: I love to play football.
+- ⚡ Fun fact: I love football.
 
 
 
