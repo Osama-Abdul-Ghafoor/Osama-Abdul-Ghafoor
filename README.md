@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m more comfortable with Python, C and C++.
+- 🌱 I’m more comfortable with Python, C# and C++.
 - 🔭 I’m currently learning ReactJS and Flutter.
 - 📫 Email me at: [osama.abdulghafoor@outlook.com][Email].
 - ⚡ Fun fact: I love football.
