@@ -2,8 +2,8 @@
 
 
 
-- 🌱 I’m more comfortable with Python, C# and C++.
-- 🔭 I’m currently learning ReactJS and Flutter.
+- 🌱 I’m more comfortable with C# ( .NET ).
+- 🔭 I’m currently learning Angular.
 - 📫 Email me at: [osama.abdulghafoor@outlook.com][Email].
 - ⚡ Fun fact: I love football.
 
